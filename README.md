@@ -1,7 +1,7 @@
 # Breaking_Bad
  Réplica do Site de doação de Breaking Bad
  
- Acesse o site por aqui: https://andreasseituno.github.io/Breaking_Bad/index.html
+ Acesse o site por aqui: https://andreasseituno.github.io/Breaking_Bad/index.html </br>
  Site de Referência: http://www.savewalterwhite.com/
  
  A famosa série de TV Breaking Bad, se trata de um professor de química que ao descobrir que sofre de câncer de pulmão 
